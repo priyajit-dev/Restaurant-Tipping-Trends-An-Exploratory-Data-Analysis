@@ -18,7 +18,7 @@ The analysis is based on the `tips.csv` dataset (available via the Seaborn data 
 * **Customer Habits:** The time of day has a minor impact, with lunch patrons tipping slightly higher percentages than dinner patrons. Meanwhile, a customer's smoking status does not drastically change their median tip percentage, though smokers tend to have slightly more unpredictable tipping habits.
 
 ## Repository Structure
-* `tips_eda.ipynb` : The main Jupyter Notebook containing the code, analysis, and visualizations.
+* `data_analysis_tips.ipynb` : The main Jupyter Notebook containing the code, analysis, and visualizations.
 * `README.md` : Project overview and findings.
 
 ## How to Run
